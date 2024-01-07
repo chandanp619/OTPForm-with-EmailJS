@@ -39,6 +39,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## EmailJS
+Create EmailJS account in https://www.emailjs.com/. After verify your account, setup a service, a template. Under https://dashboard.emailjs.com/admin/account/security checked the "Allow EmailJS API for non-browser applications."
+
+get service_id, template_id and public_key and set them in .env file.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
