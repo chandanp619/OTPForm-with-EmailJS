@@ -44,6 +44,8 @@ Create EmailJS account in https://www.emailjs.com/. After verify your account, s
 
 get service_id, template_id and public_key and set them in .env file.
 
+Reference : https://stackoverflow.com/questions/55795125/how-to-send-email-from-my-react-web-application
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
